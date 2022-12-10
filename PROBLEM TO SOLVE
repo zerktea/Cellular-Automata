@@ -1,0 +1,6 @@
+Simulate on computer the evolution (at least 20 generations) of ECA that worksaccording to the rule number specified by the user. Assume that•
+a grid contains 41 cells,
+•rule number and initial configuration are specified by the user,
+•boundary conditions are periodic (fold the grid).
+USEFULL LINKS:
+https://mathworld.wolfram.com/CellularAutomaton.html
